@@ -13,3 +13,7 @@ Le plugin est testé sur un serveur 1.8.8, il n'y a aucune sécurité que celui-
 # Support
 
 Il n'y aura aucun support sur ce plugin, car ce n'est pas mon propre plugin, je posterai néamoins les mises à jour que je ferai pour mon serveur.
+
+# Téléchargement :
+
+http://d1.neoliamc.fr/faction/Factiongui.jar
