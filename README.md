@@ -1,6 +1,6 @@
 # FactionGUI
 
-Le plugin permet de gérer sa faction.
+Le plugin permet de gérer plus facilement sa faction grâce à un menu.
 
 # DISCLAIMER
 
