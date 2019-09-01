@@ -1,0 +1,7 @@
+name: FactionGui
+version: 1.0
+author: Acenox
+main: fr.acenox.main.Main
+commands:
+   fgui:
+    usage: /fgui
